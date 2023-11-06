@@ -12,6 +12,8 @@ Each sequencer is separately switchable between counting up or down or "bounce" 
 
 There is also a switch that converts the whole thing into a single 8-step sequencer (use the first output in this mode, although the other two outputs are also still live, and they do more or less what you'd expect).
 
+There's a reset button which is very useful for resetting both sequencers back to zero, which is what it does.
+
 Each knob has a range of +/- 2.5V, give or take, with 0v at top dead center. I use center-detent pots to make finding the middle easier. You can change the voltage by varying R2 and R3 on the main board. The formula is on the schematic.
 
 If I do a new revision of this I might have the left four pots be 0-5V and the right four stay +/- 2.5V.
