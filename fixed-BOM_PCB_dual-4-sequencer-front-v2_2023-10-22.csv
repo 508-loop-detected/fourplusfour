@@ -1,0 +1,16 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,Contributor,LCSC Assembly,SMT Type,description,image,license,link
+1,0.1uF,C18,C0805,1,CC0805KRX7R9BB104,YAGEO(国巨),LCSC,C49678,,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,,,,,,https://item.szlcsc.com/373011.html
+2,1N4148W,D8,SOD-123FL_L2.6-W1.6-LS3.4-RD,1,1N4148W,Tak Cheong,LCSC,C129216,0.02,2,SOD-123FL_L2.8-W1.8-H1.1-LS3.6,LCEDA_Lib,,,,,,https://atta.szlcsc.com/upload/public/pdf/source/20181106/C323857_0FA3C8BFA639C8DE43C1526AE6096176.pdf
+3,10k,"R5, R6, R7",R0805,3,0805W8F1002T5E,UNI-ROYAL(厚声),LCSC,C17414,0.001,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,,,,,https://item.szlcsc.com/142685.html
+4,X4611WV-04I-C28D40,"H1, H2, H3, H4, H5, H6, H7, H8, H9, H10, H11",HDR-TH_4P-P2.00-V-M,11,X4611WV-04I-C28D40,XKB Connectivity,LCSC,C706995,0.065,4,HDR-TH_4P-P2.00-M-LI-1X4P,LCSC,,,,,,https://item.szlcsc.com/562479.html
+5,SPST MOMENTARY TAYDA,RESET,MOMENTARY-SW-TAYDA,1,,,,,,2,,baseball,,,,,,
+6,100k,"R4, R9, R16, R23, R24, R29, R30, R35, R36, R37, R38, R39, R46",R0805,13,0805W8F1003T5E,UNI-ROYAL(厚声),LCSC,C149504,0.002,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,,,,,https://item.szlcsc.com/142685.html
+7,47k,"R1, R2, R17, R18, R19, R20, R21, R22, R25, R26, R27, R28, R31, R32, R33, R34",R0805,16,0805W8F4702T5E,UNI-ROYAL(厚声),LCSC,C17713,0.002,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,,,,,https://item.szlcsc.com/142685.html
+8,BC847,Q1,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR,1,2n3904S-RTK/PS,KEC,LCSC,C18536,0.012,3,SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95,lcsc,Yes,Extend,,//image.lceda.cn/szlcsc/C18536.jpg,,https://item.szlcsc.com/70837.html
+9,6.8k,"R3, R8, R10, R11, R12, R13, R14, R15",R0805,8,0805W8F6801T5E,UNI-ROYAL(厚声),LCSC,C17772,0.002,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,,,,,https://item.szlcsc.com/142685.html
+10,Submini DPDT On-Off-On,"UDB1, UDB2",SUBMINI TOGGLE SWITCH DPDT ON-ON,2,Mini Toggle Switch DPDT On-On,Tayda Electronics,Tayda,A-4568,,6,,Matt kiritsy,,,,,,https://www.taydaelectronics.com/mini-toggle-switch-dpdt-on-on.html
+11,TAIWAY SP3T,CD1,TAIWAY SP3T SUBMINI,1,200-MDP6-T1B1M2QE,TAIWAY,,,,6,,rossgrady,,,,,https://www.gnu.org/licenses/lgpl-2.1.html,
+12,B100K,"S1-S1, S1-S2, S1-S3, S1-S4, S2-S1, S2-S2, S2-S3, S2-S4",9MM_SNAP-IN_POT_3,8,,,,,,5,,rossgrady,,,,,,
+13,SUBMINI_SPDT,"RH1, SP1",SUBMINI_TOGGLE,2,,,,,,3,,rossgrady,,,,,,
+14,THONKICONNNEW,"CK1, OUT1, OUT2, OUT3",THONKICONN-TIGHT,4,,,,,,3,,rossgrady,,,,,,
+15,LED-3MM-RED,"LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8",LED3MM-STOVEPIPE,8,LED-3MM-RED,,,,,2,,hctan22,,,,,,
