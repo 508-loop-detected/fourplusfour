@@ -14,9 +14,7 @@ There is also a switch that converts the whole thing into a single 8-step sequen
 
 There's a reset button which is very useful for resetting both sequencers back to zero, which is what it does.
 
-Each knob has a range of +/- 2.5V, give or take, with 0v at top dead center. I use center-detent pots to make finding the middle easier. You can change the voltage by varying R2 and R3 on the main board. The formula is on the schematic.
-
-If I do a new revision of this I might have the left four pots be 0-5V and the right four stay +/- 2.5V.
+The four knobs on the left have a range of 0-5V; the four on the right, a range of +/- 2.5V, give or take, with 0v at top dead center. You can change the voltage by varying R2 and R3 on the main board. The formula is on the schematic.
 
 The clock division switch is an SP3T, which is *different* from a DPDT, although unfortunately many vendors sell them as "DPDT on-on-on." It looks like like a DPDT, so don't get them confused! I did this once & it was . . . confusing.
 
@@ -28,3 +26,7 @@ This module, like many of my modules, uses 2mm-pitch male/female headers. Be sur
 
 Most ICs are SOIC 8/14/16; all passives are 0805. The BOMs prefixed with `fixed` are easier to read; the others can be used along with the Pick-and-place and gerber files to order PCBs.
 
+Final versions of the boards are as follows:
+- main and front are v3
+- back (aka backpack depending on where you look in my docs) is v2
+- panel is v2.1
