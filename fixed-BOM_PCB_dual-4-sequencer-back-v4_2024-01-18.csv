@@ -1,0 +1,14 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,Contributor,JLCPCB Part Class,LCSC Assembly,SMT Type,description,image,link,subpart_no
+1,0.1uF,"C1, C2, C13, C14, C15, C19, C20, C21, C22, C23, C24, C25, C26",C0805,13,CC0805KRX7R9BB104,YAGEO(国巨),LCSC,C49678,0.005,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,,,,,,https://item.szlcsc.com/373011.html,
+2,100k,"R1, R37",R0805,2,0805W8F1003T5E,UNI-ROYAL(厚声),LCSC,C149504,0.002,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,,,,,https://item.szlcsc.com/142685.html,
+3,X4611WV-04I-C28D40,"H13, H17, H19",HDR-TH_4P-P2.00-V-M,3,X4611WV-04I-C28D40,XKB Connectivity,LCSC,C706995,0.065,4,HDR-TH_4P-P2.00-M-LI-1X4P,LCSC,,,,,,https://item.szlcsc.com/562479.html,
+4,X4611WV-05I-C28D40,"H12, H14, H15, H16, H18",HDR-TH_5P-P2.00-V-M,5,X4611WV-05I-C28D40,XKB Connectivity,LCSC,C706994,0.064,5,HDR-TH_5P-P2.00-M-LI-1X5P,LCSC,,,,,,https://atta.szlcsc.com/upload/public/pdf/source/20200518/C541858_7610F54454E936EFCDE06B655DF7C837.pdf,
+5,CD40106BM96,U1,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,CD40106BM96,TI(德州仪器),LCSC,C38184,0.281,14,SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27,lcsc,Extended Part,,,,,https://item.szlcsc.com/7253.html,
+6,CD4024BM96,U2,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,CD4024BM96,TI(德州仪器),LCSC,C157535,0.307,14,SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27,LCSC,Extended Part,,,,,https://item.szlcsc.com/7253.html,
+7,1N4148W,"D1, D2, D3, D4, D5, D6",SOD-123FL_L2.6-W1.6-LS3.4-RD,6,1N4148W,Tak Cheong,LCSC,C129216,0.02,2,SOD-123FL_L2.8-W1.8-H1.1-LS3.6,LCEDA_Lib,,,,,,https://atta.szlcsc.com/upload/public/pdf/source/20181106/C323857_0FA3C8BFA639C8DE43C1526AE6096176.pdf,
+8,CD4029BCSJ,U28,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,CD4029BM96,TI(德州仪器),LCSC,C2675479,0.412,16,SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27,官方封装库,,,,Presettable BinaryDecade UpDown Counter,,https://item.szlcsc.com/241229.html,
+9,CD4053BM96,U13,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,CD4053BM96,TI(德州仪器),LCSC,C6742,0.257,16,SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27,lcsc,Extended Part,,,,,http://datasheet.octopart.com/MC14076BDR2G-ON-Semiconductor-datasheet-608107.pdf,
+10,CD4013BM96,U16,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,CD4013BM96,TI(德州仪器),LCSC,C13527,0.27,14,SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27,lcsc,Extended Part,,,,,https://lcsc.com/eda_search?q=C13527&%26type=1&ref=editor,
+11,TL074_SMD,"U14, U15",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,2,TL074CDT,ST(意法半导体),LCSC,C6963,0.228,14,SOIC-14_L8.6-W3.9-H1.8-LS6.0-P1.27,rossgrady,,,,,,https://item.szlcsc.com/7253.html,1
+12,CD4028BM96,U27,SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,1,CD4028BM96,TI,LCSC,C131484,0.308,16,SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27,官方封装库,,Yes,Extend,,,https://item.szlcsc.com/241229.html,
+13,DG408DY-E3,"U9, U17",SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL,2,DG408DY-E3,VISHAY,LCSC,C76447,1.449,16,SOIC-16_L9.9-W3.9-H1.8-LS6.0-P1.27,官方封装库,,Yes,Extend,,//image.lceda.cn/szlcsc/C76447.jpg,https://item.szlcsc.com/241229.html,

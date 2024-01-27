@@ -28,5 +28,5 @@ Most ICs are SOIC 8/14/16; all passives are 0805. The BOMs prefixed with `fixed`
 
 Final versions of the boards are as follows:
 - main and front are v3
-- back (aka backpack depending on where you look in my docs) is v2
+- back (aka backpack depending on where you look in my docs) is v4
 - panel is v2.1
